@@ -15,9 +15,9 @@ That clones this repo, installs the dependencies, runs the data-independent self
 **downloads the real Planck 2018 maps** (Colab has open internet — the fetch that a locked sandbox
 can't do runs here), and executes the full closure driver over four maps × two masks.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GITHUB_USER/eim-cmb/blob/main/colab/RUN_EVERYTHING.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/skankcunt42/eim-cmb/blob/main/colab/RUN_EVERYTHING.ipynb)
 
-> Replace `GITHUB_USER` in the badge and in the first Colab cell with the account this repo lives under.
+> Replace `skankcunt42` in the badge and in the first Colab cell with the account this repo lives under.
 
 ## What's here
 
