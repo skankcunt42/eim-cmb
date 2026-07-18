@@ -1,0 +1,8 @@
+# EIM-CMB engine dependencies (Colab installs these automatically)
+healpy>=1.16
+camb>=1.5
+astropy>=5.0
+numpy>=1.23
+scipy>=1.9
+matplotlib>=3.6
+nbformat>=5.7
